@@ -1,3 +1,3 @@
 # .github
 
-Welcome to game of phones :)
+Welcome to the game of phones .github repo
